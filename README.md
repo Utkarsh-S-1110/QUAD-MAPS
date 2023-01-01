@@ -13,3 +13,7 @@ amounts of area in a single go with reasonable accuracy.
 experience or continue, they find an easier start point.
 
 ![](images/IMG-1880.PNG)
+
+** Here is a short video of the project in action !
+
+![](images/IMG-1881.MOV)
